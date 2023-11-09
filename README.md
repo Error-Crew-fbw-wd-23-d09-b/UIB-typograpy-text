@@ -1,4 +1,6 @@
 # Shopping List
+[![Status overview badge](../../blob/badges/.github/badges/main/badge.svg)](#-results)
+
 
 This exercise is a series of typography tasks.
 
@@ -52,3 +54,54 @@ Work in the included HTML file and create a CSS file called `style.css`. After t
 
 ![Task 4 example](images/task-4.png)
 
+[//]: # (autograding info start)
+# <img src="https://github.com/DCI-EdTech/autograding-setup/raw/main/assets/bot-large.svg" alt="" data-canonical-src="https://github.com/DCI-EdTech/autograding-setup/raw/main/assets/bot-large.svg" height="31" /> Results
+> ⌛ Give it a minute. As long as you see the orange dot ![processing](https://raw.githubusercontent.com/DCI-EdTech/autograding-setup/main/assets/processing.svg) on top, CodeBuddy is still processing. Refresh this page to see it's current status.
+>
+> This is what CodeBuddy found when running your code. It is to show you what you have achieved and to give you hints on how to complete the exercise.
+
+
+### Task 1
+
+|                 Status                  | Check                                                                                    |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------- |
+| ![Status](../../blob/badges/.github/badges/main/status0.svg) | Page is using Google fonts |
+| ![Status](../../blob/badges/.github/badges/main/status1.svg) | Multiple different font weights are used |
+| ![Status](../../blob/badges/.github/badges/main/status2.svg) | H1 headline is underlined |
+| ![Status](../../blob/badges/.github/badges/main/status3.svg) | List items have a light font weight |
+| ![Status](../../blob/badges/.github/badges/main/status4.svg) | `.heading` has a shadow and is in uppercase |
+| ![Status](../../blob/badges/.github/badges/main/status5.svg) | `.note` has `bold` font weight and is `italic` |
+| ![Status](../../blob/badges/.github/badges/main/status6.svg) | `.todo-item` is stricken through |
+
+### Task 2
+
+|                 Status                  | Check                                                                                    |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------- |
+| ![Status](../../blob/badges/.github/badges/main/status7.svg) | List elements have `:before` pseudo element |
+| ![Status](../../blob/badges/.github/badges/main/status8.svg) | List elements have `:after` pseudo element |
+| ![Status](../../blob/badges/.github/badges/main/status9.svg) | Pseudo elements use 'quote' image |
+
+### Task 3 - File downloads
+
+|                 Status                  | Check                                                                                    |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------- |
+| ![Status](../../blob/badges/.github/badges/main/status10.svg) | Files list should include link to a PDF file |
+| ![Status](../../blob/badges/.github/badges/main/status11.svg) | Files list should include link to an XLS file |
+| ![Status](../../blob/badges/.github/badges/main/status12.svg) | Files list should include link to a DOC file |
+| ![Status](../../blob/badges/.github/badges/main/status13.svg) | Link elements have `:after` pseudo element |
+| ![Status](../../blob/badges/.github/badges/main/status14.svg) | Pseudo elements use icon images |
+
+### Task 4 - Gradient sandwich
+
+|                 Status                  | Check                                                                                    |
+| :-------------------------------------: | :--------------------------------------------------------------------------------------- |
+| ![Status](../../blob/badges/.github/badges/main/status15.svg) | Sandwich section should be styled using linear gradients |
+
+
+
+[🔬 Results Details](../../actions)
+[🐞 Tips on Debugging](https://github.com/DCI-EdTech/autograding-setup/wiki/How-to-work-with-CodeBuddy)
+[📢 Report Problem](https://docs.google.com/forms/d/e/1FAIpQLSfS8wPh6bCMTLF2wmjiE5_UhPiOEnubEwwPLN_M8zTCjx5qbg/viewform?usp=pp_url&entry.652569746=UIB-typography-text)
+
+
+[//]: # (autograding info end)
